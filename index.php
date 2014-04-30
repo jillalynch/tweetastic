@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-        <meta charset=”utf-8”>
+        <meta charset="utf-8">
         <title>Jill Lynch's Tweetastic Friends</title>
         <link href='http://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
 		<style type="text/css">h1, h2 {font-family: 'Londrina Shadow', cursive; clear: both;} a { color: gray; text-decoration: none; } input { float: left; margin-bottom: 2em } </style>
